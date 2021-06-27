@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/css/main.884c06cc.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/js/main.d8969c9b.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/js/runtime-main.8f5ed75d.js",
+    "static/js/2.61e48279.chunk.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/js/2.61e48279.chunk.js",
+    "static/js/3.e6f8f5ac.chunk.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/js/3.e6f8f5ac.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/index.html",
+    "static/js/2.61e48279.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/js/2.61e48279.chunk.js.LICENSE.txt",
+    "static/media/home_bg.d8c3bce4.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/media/home_bg.d8c3bce4.png",
+    "static/media/icon_empty.717fcf30.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/media/icon_empty.717fcf30.png",
+    "static/media/m_home_bg.995de481.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.205253/static/media/m_home_bg.995de481.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f5ed75d.js",
+    "static/js/2.61e48279.chunk.js",
+    "static/css/main.884c06cc.chunk.css",
+    "static/js/main.d8969c9b.chunk.js"
+  ]
+}
