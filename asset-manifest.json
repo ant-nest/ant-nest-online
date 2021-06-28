@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/css/main.884c06cc.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/js/main.0ce655f6.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/js/runtime-main.7213280b.js",
-    "static/js/2.61e48279.chunk.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/js/2.61e48279.chunk.js",
-    "static/js/3.e6f8f5ac.chunk.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/js/3.e6f8f5ac.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/index.html",
-    "static/js/2.61e48279.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/js/2.61e48279.chunk.js.LICENSE.txt",
-    "static/media/home_bg.d8c3bce4.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/media/home_bg.d8c3bce4.png",
-    "static/media/icon_empty.717fcf30.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/media/icon_empty.717fcf30.png",
-    "static/media/m_home_bg.995de481.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210627.210224/static/media/m_home_bg.995de481.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/css/main.6830f68d.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/js/main.fb3b50b3.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/js/runtime-main.53bd2846.js",
+    "static/js/2.c7970f4b.chunk.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/js/2.c7970f4b.chunk.js",
+    "static/js/3.e6f8f5ac.chunk.js": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/js/3.e6f8f5ac.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/index.html",
+    "static/js/2.c7970f4b.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/js/2.c7970f4b.chunk.js.LICENSE.txt",
+    "static/media/home_bg.d8c3bce4.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/media/home_bg.d8c3bce4.png",
+    "static/media/icon_empty.717fcf30.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/media/icon_empty.717fcf30.png",
+    "static/media/m_home_bg.995de481.png": "https://cdn.jsdelivr.net/gh/ant-nest/ant-nest-online@20210628.151143/static/media/m_home_bg.995de481.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7213280b.js",
-    "static/js/2.61e48279.chunk.js",
-    "static/css/main.884c06cc.chunk.css",
-    "static/js/main.0ce655f6.chunk.js"
+    "static/js/runtime-main.53bd2846.js",
+    "static/js/2.c7970f4b.chunk.js",
+    "static/css/main.6830f68d.chunk.css",
+    "static/js/main.fb3b50b3.chunk.js"
   ]
 }
